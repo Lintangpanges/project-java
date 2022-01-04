@@ -16,6 +16,8 @@ public abstract class MakhlukHidup extends Kebutuhan {
     }
     public void setBernapas(String bernapas) {
         this.bernapas = bernapas;
+
+        
     }
     public void setBerkembangbiak(String berkembangbiak) {
         this.berkembangbiak = berkembangbiak;
